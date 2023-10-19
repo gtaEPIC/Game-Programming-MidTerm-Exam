@@ -1,3 +1,3 @@
 # MidTerm
 
-## [PLAY](WebGL/index.html)
+## [PLAY](https://gtaepic.github.io/Game-Programming-MidTerm-Exam/WebGL/index.html)
